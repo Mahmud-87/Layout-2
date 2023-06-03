@@ -1,0 +1,70 @@
+/* Global Style Css */
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+/* Layout */
+.container {
+    width: 90%;
+    margin: auto;
+}
+.row {
+    width: 100%;
+    float: left;
+}
+/* header part */
+header {
+    background-color: #87509c;
+}
+.logo-part {
+    float: left;
+    width: 50%;
+}
+.menu-part {
+    width: 50%;
+    float: left;
+}
+#service {
+    background-color: #17c2a4;
+    color: #fff;
+
+}
+.box {
+    width: 25%;
+    float: left;
+}
+#service1 {
+    background-color: #e7f1f8;
+}
+#service2 {
+    background-color: #ffffff;
+    color: black;
+}
+#service3 {
+    background-color: #ffdd99;
+    text-align: center;
+}
+.box-3 {
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+#service4 {
+    background-color: #d74680;
+    color: #fff;
+}
+#service5 {
+    background-color: #3c5499;
+    color: #fff;
+    text-align: center;
+}
+footer {
+    background-color: #344b8e;
+    color: #ffffff;
+    text-align: center;
+    padding: 40px;
+}
